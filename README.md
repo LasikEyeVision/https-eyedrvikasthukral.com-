@@ -1,17 +1,22 @@
 # Faridabad Eye Care Centre – Dr. Vikas Thukral
 
-Welcome to the official GitHub repository of **Faridabad Eye Care Centre**, led by **Dr. Vikas Thukral**, one of the most trusted ophthalmologists in Faridabad.
+Welcome to the official GitHub repository of **Faridabad Eye Care Centre**, managed by **Dr. Vikas Thukral**, a leading eye specialist in Faridabad.
 
-We are committed to providing advanced eye care services for all age groups. From pediatric eye care to facial aesthetics and dry eye treatment, we cover a wide range of specialties.
+We specialize in:
+- Pediatric Ophthalmology  
+- Dry Eye Treatment  
+- Cornea & External Diseases  
+- Cataract Surgery  
+- Eye Aesthetics & Cosmetology  
 
-👉 **Visit our official website:**  
+👉 **Visit Our Official Website:**  
 [https://eyedrvikasthukral.com](https://eyedrvikasthukral.com)
 
-Get more information about our services, treatments, and book your appointment online.
+Explore our services, book appointments online, and learn more about advanced eye treatments available at our center.
 
 ---
 
 📍 **Location:** Faridabad, Haryana  
+👁️‍🗨️ **Website:** [eyedrvikasthukral.com](https://eyedrvikasthukral.com)  
 👨‍⚕️ **Doctor:** Dr. Vikas Thukral  
-🌐 **Website:** https://eyedrvikasthukral.com
-
+🌐 Powered by Lasik Eye Vision
