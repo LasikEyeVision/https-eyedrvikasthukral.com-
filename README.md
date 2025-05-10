@@ -21,3 +21,19 @@ Dr. Vikas Thukral is a leading ophthalmologist with years of experience in treat
 ---
 
 🔗 Visit: [eyedrvikasthukral.com](https://eyedrvikasthukral.com) for appointments and more information.
+
+
+---
+
+# 👁️ Dry Eye Specialist in Faridabad
+
+Struggling with dry eyes? Get expert care at **Faridabad Eye Care Centre**. Dr. Vikas Thukral offers advanced dry eye treatment with personalized solutions.
+
+🔗 Learn more: [https://eyedrvikasthukral.com/dry-eye.html](https://eyedrvikasthukral.com/dry-eye.html)
+
+✅ Services:
+- Dry Eye Diagnosis
+- Eye Drop Management
+- Tear Film Analysis
+- Advanced Eye Hydration Treatment
+
